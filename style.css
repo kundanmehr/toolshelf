@@ -41,4 +41,5 @@ label{font-size:14px;color:var(--mute);display:block;font-weight:600}
 details{border-bottom:2px solid var(--bd);padding:10px 0}summary{cursor:pointer;font-weight:700}
 .more{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px}.more a{background:var(--c);color:var(--on);border:2px solid var(--bd);box-shadow:2px 2px 0 var(--sh);padding:4px 12px;font-weight:700;font-size:14px;text-decoration:none}
 .why{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;margin-bottom:10px}.why p{margin:0;background:var(--panel);border:2px solid var(--bd);padding:14px}.why b{display:block;font:800 18px "Bricolage Grotesque",sans-serif}
+[hidden]{display:none!important}.search{margin:0 0 20px}.search input{font-size:18px;padding:14px 16px;box-shadow:4px 4px 0 var(--sh)}#none{font-weight:600;margin:0 0 20px}
 footer{color:var(--mute);font-size:14px;padding:34px 0}
