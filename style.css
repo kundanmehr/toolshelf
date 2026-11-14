@@ -42,4 +42,5 @@ details{border-bottom:2px solid var(--bd);padding:10px 0}summary{cursor:pointer;
 .more{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px}.more a{background:var(--c);color:var(--on);border:2px solid var(--bd);box-shadow:2px 2px 0 var(--sh);padding:4px 12px;font-weight:700;font-size:14px;text-decoration:none}
 .why{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px;margin-bottom:10px}.why p{margin:0;background:var(--panel);border:2px solid var(--bd);padding:14px}.why b{display:block;font:800 18px "Bricolage Grotesque",sans-serif}
 [hidden]{display:none!important}.search{margin:0 0 20px}.search input{font-size:18px;padding:14px 16px;box-shadow:4px 4px 0 var(--sh)}#none{font-weight:600;margin:0 0 20px}
+.post{background:var(--panel);border:2px solid var(--bd);box-shadow:5px 5px 0 var(--sh);padding:22px;max-width:780px;margin-bottom:10px}.post h2{font:800 22px "Bricolage Grotesque",sans-serif;margin:26px 0 8px}.post h2:first-child{margin-top:0}.post p,.post li{font-size:17px;max-width:68ch}.post li{margin:6px 0}.post a.btn{display:inline-block;text-decoration:none;margin-top:14px}
 footer{color:var(--mute);font-size:14px;padding:34px 0}
